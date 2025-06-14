@@ -48,8 +48,7 @@ A full-stack blog platform built using **MongoDB**, **Express.js**, **React.js**
 git clone https://github.com/kavyasrigutti/blogFullStackProject.git
 
 cd blogFullStackProject
-
-2. Setup Backend
+### 2. Setup Backend
 
 cd server
 
@@ -67,7 +66,7 @@ GENAI_API_KEY=your_google_genai_api_key
 
 Start the backend server:  npm start
 
-3. Setup Frontend
+### 3. Setup Frontend
 
 cd client
 
